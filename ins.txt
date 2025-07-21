@@ -1,0 +1,1 @@
+I want creating a Vehicle Maintenance System using php, first create a Home UI of Encoder which has a Button for "New Route"  it has a create Route History of the diver, It has a input of Fullname,Start Odo meter, Platenumber, Vehicle Model, Chassis number, 
